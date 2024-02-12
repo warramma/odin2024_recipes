@@ -1,0 +1,11 @@
+h1{
+    background-color: lightblue;
+    padding: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 24px;
+}
+ul, ol{
+    font-size: 22px;
+}
